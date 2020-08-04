@@ -15,17 +15,3 @@ Comecei nessa área por meio do projeto Ecoleta da [Next Level Week #1](https://
 Adoro programar em conjunto, então se você tem um projeto legal, não hesite em me chamar! :muscle:
 
 Fun fact: Nos finais de semana me transformo em professora de música, ensinando crianças que música não é coisa de adulto e para adultos que música não precisa ser aprendida desde criança. 🥁
-
-## Skills 💻
-
-:books: O que tenho mais experiência: 
-
-- HTML
-- CSS
-- Javascript
-- Git
-
-⚙️ Foco de estudo:
- 
-- React
-- Node.js
