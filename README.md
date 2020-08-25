@@ -10,7 +10,7 @@
 
 Sou estudante de Sistemas de Informação no IFF e na faculdade foi meu primeiro contato com programação. Desde então, me apaixonei por desenvolvimento web e até agora é o que eu mais tenho investido tempo. :watch:
 
-Comecei nessa área por meio do projeto Ecoleta da [Next Level Week #1](https://blog.rocketseat.com.br/primeira-next-level-week/) e meu primeiro projeto foi contruído com base no aprendizado durante o evento. Aqui está o [layout](https://www.figma.com/file/J3NJiEMVfq0LLmlO2yzJpN/DuBem?node-id=0%3A1) dele. :bulb:
+Comecei nessa área por meio do projeto Ecoleta da [Next Level Week #1](https://blog.rocketseat.com.br/primeira-next-level-week/) e após isso, entrei pro mundo dos Hackathons da [Shawee](https://shawee.io/). Meu projeto de Hackathon preferido é o [Ame - Pequenos Negócios](https://github.com/bkkater/summit-mobile).
 
 Adoro programar em conjunto, então se você tem um projeto legal, não hesite em me chamar! :muscle:
 
