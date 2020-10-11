@@ -19,5 +19,5 @@ Fun fact: Nos finais de semana me transformo em professora de música, ensinando
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkkater&show_icons=true&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkkater&show_icons=true&layout=compact" />
+  <img align="center" height= 195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkkater&show_icons=true&layout=compact" />
 </p>
