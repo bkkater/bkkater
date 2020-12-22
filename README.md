@@ -12,11 +12,6 @@ Sou estudante de Sistemas de Informação no IFF e na faculdade foi meu primeiro
 
 Comecei nessa área por meio do projeto Ecoleta da [Next Level Week #1](https://blog.rocketseat.com.br/primeira-next-level-week/) e após isso, entrei pro mundo dos Hackathons da [Shawee](https://shawee.io/). Meu projeto de Hackathon preferido é o [Linker Faça+](https://github.com/bkkater/linker2.0).
 
-Adoro programar em conjunto, então se você tem um projeto legal, não hesite em me chamar! :muscle:
-
-Fun fact: Nos finais de semana me transformo em professora de música, ensinando crianças que música não é coisa de adulto e para adultos que música não precisa ser aprendida desde criança. 🥁
-
-
 <p> 
   <img align="center" width=418px src="https://github-readme-stats.vercel.app/api?username=bkkater&show_icons=true&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkkater&show_icons=true&layout=compact" />
