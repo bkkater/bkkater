@@ -1,15 +1,12 @@
 <img alt="Hi, I'm Bianca. Dev Front-end."  align='left' src='./resources/octocat-anime.gif'>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ununtu&lines=Hi%2C+I'm+Bianca.+Dev+Front-end.)](https://git.io/typing-svg)
 
-
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
-
-
+<br/>
 
 ## 🖥️ Languages and Tools</h3> 
 
