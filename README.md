@@ -27,7 +27,7 @@
 <br/>
 
 ## 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=bkkater&theme=transparent&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bkkater&theme=transparent&hide_border=true&hide_longest_streak=false)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bkkater&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ##
