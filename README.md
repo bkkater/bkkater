@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-## 🖥️ Languages and Tools</h3> 
+## 🖥️ Languages and Tools
 
 <p align="left"> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
@@ -24,6 +24,10 @@
 </p>
 
 <br/>
+
+## 🚀 Portfolio
+![image](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+
 <br/>
 
 ## 📊 GitHub Stats:
@@ -32,6 +36,8 @@
 
 ##
 ![](https://komarev.com/ghpvc/?username=bkkater&style=flat-square)
+
+
 
 
 
