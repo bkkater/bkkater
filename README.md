@@ -1,23 +1,18 @@
-<img alt="Hi, I'm Bianca. Dev Front-end."  align='left' src='./resources/octocat-anime.gif'>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ununtu&lines=Hi%2C+I'm+Bianca.+Dev+Front-end.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ununtu&lines=Hi%2C+I'm+Bianca.+Dev+Front-end.)
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-## 🖥️ Languages and Tools
-
-[![My Skills](https://skillicons.dev/icons?i=react,next,html,css,nodejs,mongodb,git&perline=7)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Ilustração Computador">
 
 <br/>
 <br/>
 
-## 📊 GitHub Stats:
+<p>Languages and Tools</p> 
+
+[![My Skills](https://skillicons.dev/icons?i=react,next,html,css,nodejs,java,mysql,mongodb,git&perline=9)](https://skillicons.dev)
+
+<br/>
+<br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=bkkater&theme=transparent&hide_border=true&hide_longest_streak=false)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bkkater&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ##
 ![](https://komarev.com/ghpvc/?username=bkkater&style=flat-square)
