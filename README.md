@@ -7,7 +7,7 @@
 
 <p>Languages and Tools</p> 
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,html,css,sass,tailwind,jest,cypress,nodejs,java,mysql,mongodb,git&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,html,css,javascript,tailwind,spring,jest,cypress,nodejs,mongodb,git)](https://skillicons.dev)
 
 <br/>
 <br/>
